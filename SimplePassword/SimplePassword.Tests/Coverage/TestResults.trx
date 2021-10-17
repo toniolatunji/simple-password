@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="6252ad99-d6fd-4dad-a23e-c939251aa63c" name="olatu@OOLATUNJI 2021-10-17 17:31:09" runUser="OOLATUNJI\olatu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-10-17T17:31:09.4663009+01:00" queuing="2021-10-17T17:31:09.4663028+01:00" start="2021-10-17T17:31:06.7382616+01:00" finish="2021-10-17T17:31:09.6528564+01:00" />
+  <TestSettings name="default" id="73554f99-daa1-466f-9804-a59a18cdd234">
+    <Deployment runDeploymentRoot="olatu_OOLATUNJI_2021-10-17_17_31_09" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="129e3589-2fdf-4eff-89e1-9a2e717142fc" testId="27fce665-cdcc-b311-9e3c-5c6e41aca09e" testName="SimplePassword_Returns_CorrectValidityError(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" computerName="OOLATUNJI" duration="00:00:00.0007700" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="129e3589-2fdf-4eff-89e1-9a2e717142fc" />
+    <UnitTestResult executionId="0c31be5e-00c5-4a03-b950-4cfe2b3af040" testId="aca60606-bc46-8670-019f-ed052cfd1e9e" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;franceBBB+-=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002650" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c31be5e-00c5-4a03-b950-4cfe2b3af040" />
+    <UnitTestResult executionId="f5366277-fa3a-459f-9711-fd1bb77e95d8" testId="07439495-59ec-8dd2-982c-00a234aa99e7" testName="SimplePassword_Returns_CorrectValidityError(&quot;franceBBB+-=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002890" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5366277-fa3a-459f-9711-fd1bb77e95d8" />
+    <UnitTestResult executionId="e65adbda-03a8-4f75-a5c3-33ac8b1b8785" testId="f68e1cc6-b647-231d-787d-c99b4ede2835" testName="SimplePassword_Returns_CorrectValidityError(&quot;fr12B-=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0003020" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e65adbda-03a8-4f75-a5c3-33ac8b1b8785" />
+    <UnitTestResult executionId="2cf4e888-01ac-451b-9b4f-d7f5b2a25948" testId="72d0fcc6-7954-977f-5686-0b36585ebd55" testName="SimplePassword_Returns_CorrectValidityError(&quot;turkey90AAA=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0005599" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cf4e888-01ac-451b-9b4f-d7f5b2a25948" />
+    <UnitTestResult executionId="6a874e2e-68f4-4fa8-aeb1-413454351d4b" testId="af53e52e-5b52-6c2c-8300-911ee11fa8aa" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004410" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a874e2e-68f4-4fa8-aeb1-413454351d4b" />
+    <UnitTestResult executionId="bab2f650-229a-4c26-9363-37888da376ad" testId="432b11ed-2dae-1e88-39aa-547824570c58" testName="SimplePassword_Returns_CorrectValidityError(&quot;mikeonetwo@+-=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004060" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bab2f650-229a-4c26-9363-37888da376ad" />
+    <UnitTestResult executionId="5a2a4e98-5ebb-47b4-8a84-99ed43d1ce36" testId="dac34168-599a-203c-430a-454c51d613de" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" computerName="OOLATUNJI" duration="00:00:00.0005770" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a2a4e98-5ebb-47b4-8a84-99ed43d1ce36" />
+    <UnitTestResult executionId="b04bfe55-e1ba-4c38-9fdc-d8e27e96b7b0" testId="b9ba0e70-d970-c01c-5260-288e2212e244" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;turkey90AAA=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0020360" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b04bfe55-e1ba-4c38-9fdc-d8e27e96b7b0" />
+    <UnitTestResult executionId="c8019086-f394-42e7-a176-bdda188845e9" testId="455c1f51-dafe-eaad-e196-48b43d183ed9" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;fr12B-=&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002060" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8019086-f394-42e7-a176-bdda188845e9" />
+    <UnitTestResult executionId="2c7b22e0-44f3-4760-96c0-0efa24c6f35f" testId="7cffeecc-a33c-3b78-b164-56d075ed8a75" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;indigo99AB@+===&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004300" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c7b22e0-44f3-4760-96c0-0efa24c6f35f" />
+    <UnitTestResult executionId="78fcbe9d-1de5-4788-bb37-5dfe9b5c63a1" testId="5bb7d63a-37cc-e19d-f419-2c5ac416cf96" testName="SimplePassword_Returns_CorrectValidityError(&quot;passWord123!!!!&quot;)" computerName="OOLATUNJI" duration="00:00:00.0033780" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="78fcbe9d-1de5-4788-bb37-5dfe9b5c63a1" />
+    <UnitTestResult executionId="9ccd28c0-7c99-4a72-a735-88a26c42c1dc" testId="a78d699c-8195-15b6-3610-85979b80c5d6" testName="SimplePassword_Returns_CorrectValidityError(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" computerName="OOLATUNJI" duration="00:00:00.0003400" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ccd28c0-7c99-4a72-a735-88a26c42c1dc" />
+    <UnitTestResult executionId="62c69931-3383-444a-8753-449c78dd7604" testId="9cae92ef-7f03-5652-f61c-0e320d890a63" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;apple!M7&quot;)" computerName="OOLATUNJI" duration="00:00:00.0013980" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62c69931-3383-444a-8753-449c78dd7604" />
+    <UnitTestResult executionId="b918a75b-00a5-490a-98d0-2aa3693db7fc" testId="b6035845-2d71-1c67-e95e-3d8b9168aba0" testName="SimplePassword_Returns_CorrectPasswordValidity(&quot;passWord123!!!!&quot;)" computerName="OOLATUNJI" duration="00:00:00.4453370" startTime="2021-10-17T17:31:08.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b918a75b-00a5-490a-98d0-2aa3693db7fc" />
+    <UnitTestResult executionId="d771998c-c850-4725-8175-2476f7cdb9b4" testId="5b2bcc76-ef39-f85d-93d1-88cb33fdec68" testName="SimplePassword_Returns_CorrectValidityError(&quot;indigo99AB122&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002620" startTime="2021-10-17T17:31:09.0000000+01:00" endTime="2021-10-17T17:31:09.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d771998c-c850-4725-8175-2476f7cdb9b4" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;franceBBB+-=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="aca60606-bc46-8670-019f-ed052cfd1e9e">
+      <Execution id="0c31be5e-00c5-4a03-b950-4cfe2b3af040" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;franceBBB+-=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;fr12B-=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="f68e1cc6-b647-231d-787d-c99b4ede2835">
+      <Execution id="e65adbda-03a8-4f75-a5c3-33ac8b1b8785" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;fr12B-=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="dac34168-599a-203c-430a-454c51d613de">
+      <Execution id="5a2a4e98-5ebb-47b4-8a84-99ed43d1ce36" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="af53e52e-5b52-6c2c-8300-911ee11fa8aa">
+      <Execution id="6a874e2e-68f4-4fa8-aeb1-413454351d4b" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;mikeonetwo@+-=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="432b11ed-2dae-1e88-39aa-547824570c58">
+      <Execution id="bab2f650-229a-4c26-9363-37888da376ad" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;mikeonetwo@+-=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;turkey90AAA=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="b9ba0e70-d970-c01c-5260-288e2212e244">
+      <Execution id="b04bfe55-e1ba-4c38-9fdc-d8e27e96b7b0" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;turkey90AAA=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;franceBBB+-=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="07439495-59ec-8dd2-982c-00a234aa99e7">
+      <Execution id="f5366277-fa3a-459f-9711-fd1bb77e95d8" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;franceBBB+-=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="a78d699c-8195-15b6-3610-85979b80c5d6">
+      <Execution id="9ccd28c0-7c99-4a72-a735-88a26c42c1dc" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;D%bh^+BW~Uh_[Xdr6&lt;h&lt;x,Zk,&lt;rv#&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;passWord123!!!!&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="5bb7d63a-37cc-e19d-f419-2c5ac416cf96">
+      <Execution id="78fcbe9d-1de5-4788-bb37-5dfe9b5c63a1" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;passWord123!!!!&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;apple!M7&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="9cae92ef-7f03-5652-f61c-0e320d890a63">
+      <Execution id="62c69931-3383-444a-8753-449c78dd7604" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;apple!M7&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;indigo99AB122&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="5b2bcc76-ef39-f85d-93d1-88cb33fdec68">
+      <Execution id="d771998c-c850-4725-8175-2476f7cdb9b4" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;indigo99AB122&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="27fce665-cdcc-b311-9e3c-5c6e41aca09e">
+      <Execution id="129e3589-2fdf-4eff-89e1-9a2e717142fc" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;A3R&lt;r@MZWhNcSmJ4;QA@7pC7u&amp;jY745u&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;indigo99AB@+===&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="7cffeecc-a33c-3b78-b164-56d075ed8a75">
+      <Execution id="2c7b22e0-44f3-4760-96c0-0efa24c6f35f" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;indigo99AB@+===&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectValidityError(&quot;turkey90AAA=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="72d0fcc6-7954-977f-5686-0b36585ebd55">
+      <Execution id="2cf4e888-01ac-451b-9b4f-d7f5b2a25948" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectValidityError(&quot;turkey90AAA=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;fr12B-=&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="455c1f51-dafe-eaad-e196-48b43d183ed9">
+      <Execution id="c8019086-f394-42e7-a176-bdda188845e9" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;fr12B-=&quot;)" />
+    </UnitTest>
+    <UnitTest name="SimplePassword_Returns_CorrectPasswordValidity(&quot;passWord123!!!!&quot;)" storage="c:\users\olatu\projects\demo\awsm\simple-password\simplepassword\simplepassword.tests\bin\debug\net5.0\simplepassword.tests.dll" id="b6035845-2d71-1c67-e95e-3d8b9168aba0">
+      <Execution id="b918a75b-00a5-490a-98d0-2aa3693db7fc" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SimplePassword.Tests.SimplePasswordServiceTests" name="SimplePassword_Returns_CorrectPasswordValidity(&quot;passWord123!!!!&quot;)" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="27fce665-cdcc-b311-9e3c-5c6e41aca09e" executionId="129e3589-2fdf-4eff-89e1-9a2e717142fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aca60606-bc46-8670-019f-ed052cfd1e9e" executionId="0c31be5e-00c5-4a03-b950-4cfe2b3af040" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07439495-59ec-8dd2-982c-00a234aa99e7" executionId="f5366277-fa3a-459f-9711-fd1bb77e95d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f68e1cc6-b647-231d-787d-c99b4ede2835" executionId="e65adbda-03a8-4f75-a5c3-33ac8b1b8785" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72d0fcc6-7954-977f-5686-0b36585ebd55" executionId="2cf4e888-01ac-451b-9b4f-d7f5b2a25948" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af53e52e-5b52-6c2c-8300-911ee11fa8aa" executionId="6a874e2e-68f4-4fa8-aeb1-413454351d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="432b11ed-2dae-1e88-39aa-547824570c58" executionId="bab2f650-229a-4c26-9363-37888da376ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dac34168-599a-203c-430a-454c51d613de" executionId="5a2a4e98-5ebb-47b4-8a84-99ed43d1ce36" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9ba0e70-d970-c01c-5260-288e2212e244" executionId="b04bfe55-e1ba-4c38-9fdc-d8e27e96b7b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="455c1f51-dafe-eaad-e196-48b43d183ed9" executionId="c8019086-f394-42e7-a176-bdda188845e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7cffeecc-a33c-3b78-b164-56d075ed8a75" executionId="2c7b22e0-44f3-4760-96c0-0efa24c6f35f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bb7d63a-37cc-e19d-f419-2c5ac416cf96" executionId="78fcbe9d-1de5-4788-bb37-5dfe9b5c63a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a78d699c-8195-15b6-3610-85979b80c5d6" executionId="9ccd28c0-7c99-4a72-a735-88a26c42c1dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cae92ef-7f03-5652-f61c-0e320d890a63" executionId="62c69931-3383-444a-8753-449c78dd7604" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6035845-2d71-1c67-e95e-3d8b9168aba0" executionId="b918a75b-00a5-490a-98d0-2aa3693db7fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b2bcc76-ef39-f85d-93d1-88cb33fdec68" executionId="d771998c-c850-4725-8175-2476f7cdb9b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="16" executed="16" passed="16" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Tests\bin\Debug\net5.0\SimplePassword.Tests.dll&#xD;
+   NUnit3TestExecutor converted 16 of 16 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1634488270" lines-covered="20" lines-valid="20" branches-covered="14" branches-valid="14">
+  <sources>
+    <source>C:\Users\olatu\Projects\demo\AWSM\simple-password\SimplePassword\SimplePassword.Service\</source>
+  </sources>
+  <packages>
+    <package name="SimplePassword.Service" line-rate="1" branch-rate="1" complexity="16">
+      <classes>
+        <class name="SimplePassword.Service.Implementation.SimplePasswordService" filename="Implementation\SimplePasswordService.cs" line-rate="1" branch-rate="1" complexity="14">
+          <methods>
+            <method name="SimplePassword" signature="(System.String)" line-rate="1" branch-rate="1" complexity="14">
+              <lines>
+                <line number="10" hits="16" branch="False" />
+                <line number="11" hits="16" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="24" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="16" hits="15" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="81" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="2" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="21" hits="13" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="133" type="jump" coverage="100%" />
+                    <condition number="161" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="26" hits="12" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="215" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="27" hits="2" branch="False" />
+                <line number="28" hits="2" branch="False" />
+                <line number="31" hits="10" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="253" type="jump" coverage="100%" />
+                    <condition number="275" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="32" hits="4" branch="False" />
+                <line number="33" hits="4" branch="False" />
+                <line number="36" hits="6" branch="False" />
+                <line number="37" hits="16" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="16" branch="False" />
+            <line number="11" hits="16" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="24" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="16" hits="15" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="81" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="17" hits="2" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="21" hits="13" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="133" type="jump" coverage="100%" />
+                <condition number="161" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="26" hits="12" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="215" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="27" hits="2" branch="False" />
+            <line number="28" hits="2" branch="False" />
+            <line number="31" hits="10" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="253" type="jump" coverage="100%" />
+                <condition number="275" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="32" hits="4" branch="False" />
+            <line number="33" hits="4" branch="False" />
+            <line number="36" hits="6" branch="False" />
+            <line number="37" hits="16" branch="False" />
+          </lines>
+        </class>
+        <class name="SimplePassword.Service.DataTransferObjects.SimplePasswordResponseDto" filename="DataTransferObjects\SimplePasswordResponseDto.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_IsValid" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="24" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Error" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="24" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="24" branch="False" />
+            <line number="6" hits="24" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
