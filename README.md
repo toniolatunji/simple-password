@@ -11,7 +11,7 @@ Have the function SimplePassword(str) take the str parameter being passed and de
 If all the above constraints are met within the string, the your program should return the string true, otherwise your program should return the string false. For example: if str is "apple!M7" then your program should return "true".
 
 # Examples
-> Input: "passWord123!!!!"}<br/>
+> Input: "passWord123!!!!"<br/>
 > Output: false<br/>
 
 > Input: "turkey90AAA="<br/>
